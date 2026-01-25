@@ -1,0 +1,30 @@
+
+  {"github.copilot.enable": false,
+  "editor.quickSuggestions": false,
+  "editor.parameterHints.enabled": false,
+  "editor.lightbulb.enabled": false,
+  "editor.codeActionsOnSave": {},
+  "editor.inlineSuggest.enabled": false,
+  "javascript.suggest.enabled": false,
+  "editor.suggest.showWords": false,
+  "editor.suggest.showFunctions": false,
+  "editor.suggest.showClasses": false,
+  "editor.suggest.showSnippets": false,
+  "editor.suggest.showMethods": false,
+  "editor.suggest.showConstructors": false,
+  "editor.suggest.showFields": false,
+  "editor.suggest.showVariables": false,
+  "editor.suggest.showModules": false,
+  "editor.suggest.showProperties": false,
+  "editor.suggest.showEvents": false,
+  "editor.suggest.showOperators": false,
+  "editor.autoclosingQuotes": false,
+  "editor.autoClosingBrackets": false,
+  "editor.autoClosingOvertype": "never",
+  "editor.autoSurround": "never",
+  "editor.formatOnType": false,
+  
+
+
+  }     
+  

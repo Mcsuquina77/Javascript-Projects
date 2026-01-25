@@ -22,9 +22,6 @@
   "editor.autoClosingBrackets": false,
   "editor.autoClosingOvertype": "never",
   "editor.autoSurround": "never",
-  "editor.formatOnType": false,
-  
-
-
+  "editor.formatOnType": false
   }     
   
